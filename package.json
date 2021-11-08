@@ -1,0 +1,19 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiliyaVaryvoda/my_first_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiliyaVaryvoda/my_first_repo/issues"
+  },
+  "homepage": "https://github.com/LiliyaVaryvoda/my_first_repo#readme"
+}
